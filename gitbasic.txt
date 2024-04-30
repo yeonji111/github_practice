@@ -1,0 +1,8 @@
+1. add, commit, revert(reset), branch, checkout, merge(충돌해결)
+
+* 깃허브 사용 규칙
+- 모르는 명령어는 사용금지
+- 원격, Local 전부 브랜치 + 커밋 생각하면서
+- commit (+ push, pull), merge 전에 브랜치 체크
+
+ 
